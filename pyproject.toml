@@ -1,12 +1,12 @@
 [tool.poetry] 
-name = "practical01" 
+name = "2024-P1-EscapedShark" 
 version = "0.1.0" 
 description = "" 
 authors = ["Peidongliu <peidong.liu1@uqconnect.edu.au>"] 
 readme = "README.md" 
  
 [tool.poetry.dependencies] 
-python = "3.12.1" 
+python = "3.10.12" 
 flask = "^3.0.2"
   
 [build-system] 
