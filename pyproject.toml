@@ -2,7 +2,7 @@
 name = "practical01" 
 version = "0.1.0" 
 description = "" 
-authors = ["Evan Hughes <uqehugh3@uq.edu.au>"] 
+authors = ["Peidongliu <peidong.liu1@uqconnect.edu.au>"] 
 readme = "README.md" 
  
 [tool.poetry.dependencies] 
